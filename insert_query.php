@@ -29,9 +29,9 @@ if (mysqli_query($Connection, $createTableQuery)) {
 }
 
 // Insert data into the table
-$first_name = "John";
-$last_name = "Doe";
-$email = "yuwan@gmail.com";
+$first_name = "Yuwan";
+$last_name = "Kavindu";
+$email = "yuwan2002@gmail.com";
 $password = "1234";
 $is_deleted = 0;
 
